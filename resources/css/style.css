@@ -1,12 +1,35 @@
+html{
+  background-color: black;
+
+}
 h1,
-.coming_soon
+.around_you,
+.travel_guide
 {
   text-align: center;
   font-family: Verdana, sans-serif;
+  color: white;
+
 }
 
-.movie-Phone{
+.movie-Phone,
+.camp,
+.phone{
   display: block;
   position: relative;
   margin: 0 auto;
+}
+
+a{
+  color: aquamarine;
+}
+
+.around_you h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.travel_guide h1{
+  font-size: 42px;
+  font-weight: 300;
 }
