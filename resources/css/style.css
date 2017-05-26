@@ -1,8 +1,12 @@
-
-
 h1,
 .coming_soon
 {
   text-align: center;
   font-family: Verdana, sans-serif;
+}
+
+.movie-Phone{
+  display: block;
+  position: relative;
+  margin: 0 auto;
 }
